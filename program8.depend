@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712376954 source:c:\users\dell\desktop\c programming\program8\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+
